@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adventour</title>
+    <link rel="stylesheet" href="travel.css">
+
+</head>
+<body>
+    <div class="main">
+       <nav>
+        <div class="logo"> 
+          <img src="adventour.png.jpeg" alt="">
+          <p class="logotext">DVENTOUR</p>
+        </div>
+        <div class="nav-links">
+            <ul>
+                <li><a href="#">Discover</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Categories</a></li>
+                <li><a href="#">About Us</a></li>
+                <button class="my">Get Started</button>
+                <hr>
+            </ul>
+        </div>
+       </nav> 
+    </div>
+<table>
+    <tr>
+        <td>
+            <div class="girl">
+                <img src="https://images.unsplash.com/photo-1539635278303-d4002c07eae3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" alt="girl">
+            </div> 
+        </td>
+        <td>
+            <div class="written">
+                <h3>All you need is Adventour.</h3>
+                <h1>Let's Enjoy Your Life,<h1>
+                <h1>Explore Beautiful<h1>
+                <h2>Places.🚀</h2>
+               </div>
+        </td>
+    </tr>
+</table>    
+ <p>                    </p>
+ <p>                     </p>
+ <p>                      </p>
+ <div class="kuch"><p>We are travel agency giving your marvelous experience.So,get</p>
+    <p>your ticket with low price to your favourite destination</p>
+    
+     
+ </div>
+ <div class="header">
+    <form>
+        
+        <div class="formbox">
+            <input type="text" class="search-field-location" placeholder="Location">
+        
+            
+            <input type="text" class="search-Date" placeholder="Date"> 
+
+            
+            <button class="search-btn" type="submit"> <img src="icons8-search-30.png" alt=""></button>
+            
+          
+    </form>
+ </div>
+ <div class="ghoda">
+    <h3>Top Destination</h3>
+ </div>
+ <div class="lol"> 
+    <h1>Wanderlist for</h1>
+    <h1>Your Wanderlust</h1>
+   </div>
+   <button class="arrow"> <img src="icons8-more-than-100.png" alt=""></button>
+   <button class="arrow2"> <img src="icons8-less-than-100.png" alt=""></button>
+  <button class="sea">
+   <div class="photu">
+    <img src="https://cdn.pixabay.com/photo/2017/01/20/00/30/maldives-1993704__340.jpg" alt="Traveltour">
+ </div>
+  </button> 
+ <button class="coconut-btn">
+    <div class="coconut">
+        <img src="https://cdn.pixabay.com/photo/2018/03/12/20/07/maldives-3220702__340.jpg" alt="tour">
+    </div>
+ </button>
+ <button class="beach-btn">
+    <div class="beach">
+        <img src="https://c0.wallpaperflare.com/preview/848/494/507/gili-air-indonesia-love-honeymoon.jpg" alt="sea">
+     </div>
+ </button>
+ 
+ 
+ <button class="star-btn">
+
+    <div class="star">
+       <img src="icons8-star-64 (1).png" alt=""><div class="text">
+          <p>4.3</p>
+          
+       </div>
+    </div>
+    
+   </button>
+
+   <button class="star-btn1">
+
+    <div class="star">
+       <img src="icons8-star-64 (1).png" alt=""><div class="text">
+          <p>4.3</p>
+       </div>
+    </div>
+    
+   </button>
+
+   <button class="star-btn2">
+
+    <div class="star">
+       <img src="icons8-star-64 (1).png" alt=""><div class="text">
+          <p>4.3</p>
+       </div>
+    </div>
+    
+   </button> 
+   <p class="islands">7 Days Bali and Gili</p>
+          <p class="epid">Islands Epid Experience</p>
+          <p class="bali">Bali,Indonesia</p>
+          <h2 class="rupee">$</h2>
+          <h2 class="num">35</h2>
+          <p class="person">/Person</p>  
+    
+ <p class="bucket">
+    Bali Bucket List Boutique
+ </p>
+ <p class="days">10 Days Tour</p>
+ <p class="bali1">Bali,Indonesia</p>
+ <h2 class="rupee1">$</h2>
+ <h2 class="num1">42</h2>
+ <p class="person1">/Person</p>
+ 
+ <p class="best">The Best of Bali,Gilis and</p>
+ <p class="penida">Penida Island Experience</p>
+ <p class="bali3">Bali,Indonesia</p>
+ <p class="rupee3">$</p>
+ <h2 class="num3">76</h2>
+ <p class="person3">/Person</p>
+
+</body>
+</html>
