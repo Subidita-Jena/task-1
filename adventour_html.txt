@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adventour.com</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+
+<body>
+    <div class="booking">
+        <h3 style="color: #47b5ff;font-size:medium; padding-top: 10px;">Holiday easily</h3>
+        <br>
+        <h1 style="color:white;">BOOK TICKETS AND PLAN YOUR </h1>
+        <h1 style="color:white;">HOLIDAY EASILY</h1>
+
+
+        <table>
+            <tr>
+                <td id="ticket1" style="padding-left: 160px;">
+                    <img src="hourglass.jpeg"
+                        alt="hourglass" height="40px" style="margin-left: 1px" />
+                    <h4 style="text-align:centre; margin-left:5px;">Easy to buy tickets</h4>
+                    <h5 style="margin-left: 5px;">this ia an example</h5>
+                </td>
+                <td id="ticket2">
+                    <img src="tour_guide.jpeg"
+                        alt="" height="40px" style="margin-left: 1px" />
+                    <h4 style="text-align:centre;margin-left:3px;">Best Tour Guide</h4>
+                    <h5 style=" text-align:centre;margin-left:5px;">this ia an example</h5>
+                </td>
+                <td id="ticket3">
+                    <img src="choices.jpeg"
+                        alt="hourglass" height="40px" style="margin-left: 1px" />
+                    <h4 style="text-align:centre; margin-left:5px;">Lots of choices</h4>
+                    <h5 style="text-align:centre;margin-left: 5px;">this ia an example</h5>
+                </td>
+                <td id="ticket4">
+                    <img src="various_products.jpeg"
+                        alt="hourglass" height="40px" style="margin-left: 1px" />
+                    <h4 style="text-align:centre; margin-left:5px;">Various Top Products</h4>
+                    <h5 style="margin-left:5px;text-align:centre;">this ia an example</h5>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <div class="sect2">
+        <table>
+            <tr style="padding-top: 10px;">
+                <td id="photu">
+                    <img src="pic2.jpg" alt="photu tha gayab hogya" height="500px" width="700px"
+                        padding-top="10px">
+                </td>
+                <div class="content">
+                    <td style="padding: 0 110px 0 110px;">
+                        <h4 style="padding-left: 30px; color: #47b5ff;">Our Experiences</h4>
+                        <br>
+                        <h2 style="padding-left: 30px;">Save more with our best deals</h2>
+                        <br>
+                        <h5 style="padding-left: 30px;">Lorem ipsum dolor sit amet consectetur adipisicing. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur iste debitis magnam recusandae iusto!</h5>
+                        <br>
+                        <table>
+                            <tr>
+                                <td style="padding-left: 30px;">
+                                    <h2 style=" color: #47b5ff;">12+</h2>
+                                    <h4>Years experience</h4>
+                                </td>
+
+                                <td style="padding-left: 30px;">
+                                    <h1>
+                                        <h2 style=" color: #47b5ff;">15K+</h2>
+                                        <h4>success journey</h4>
+                                    </h1>
+                                </td>
+                                <td style="padding-left: 30px;">
+                                    <h2 style=" color: #47b5ff;">9+</h2>
+                                    <h4>Awards winning</h4>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </div>
+            </tr>
+        </table>
+        <div class="about">
+            <table>
+                <tr>
+                    <td style="padding:0 0 0 50px">
+                        <h4 style="color:#47b5ff">What they say</h4>
+                        <br>
+                        <h1>Our customer says <br> about us</h1>
+                    </td>
+                    <td style="padding-left: 950px;padding-top: 120px;padding-bottom: 80px;">
+                        <a class="btn"><button type="button" onclick="prev()">
+                                &#8249
+                            </button></a>
+                        <a class="btn"><button type="button" onclick="next()">
+                                &#8250
+                            </button>
+                        </a>
+                    </td>
+                </tr>
+            </table>
+            <div class="reviews">
+                <table>
+                    <tr>
+                        <td>
+                            <div class="review1">
+                                <h3>"Memorable Trip</h3>
+                                <br>
+                                <h5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate esse repudiandae
+                                    laborum mollitia nulla dolores consequuntur hic, soluta deserunt nisi autem cumque
+                                    laudtine.
+                                    soluta deserunt nisi autem cumque</h5>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="review2">
+
+                                <h3>"Great Tour Guide"</h3>
+                                <br>
+                                <h5>
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem sit
+                                    dignne.this is just an example please ignore the text.soluta deserunt nisi autem
+                                    cumque
+                                    laudtine
+                                </h5>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="review3">
+                                <h3>
+                                    "The tour was simple"
+                                </h3>
+                                <br>
+                                <h5>
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, illo laudantium!
+                                    Voluptatum a ullam illum, ad, unde ex beatae vitae asperiores impedit rem dolore
+                                    repellendus similique distinctio quia laudantium.
+                                </h5>
+
+                            </div>
+                        </td>
+                        <td>
+                            <div class="review4">
+                                <h3>
+                                    "The tour was simple"
+                                </h3>
+                                <br>
+                                <h5>
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, illo laudantium!
+                                    Voluptatum a ullam illum, ad, unde ex beatae vitae asperiores impedit rem dolore
+                                    repellendus similique distinctio quia laudantium.
+                                </h5>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+                
+            </div>
+        </div>
+        <div class="last">
+            <table>
+                <tr>
+                    <td style="padding: 50px 0 50px 50px;">
+                        <h4 style="color:#47b5ff;">Stay connected</h4>
+                        <br>
+                        <h2>Get started with Adventour</h2>
+                    </td>
+                    <td style="padding: 80px 50px 50px 1000px">
+                        <button type="button">Get started</button>
+                    </td>
+                </tr>
+            </table>
+            <hr style="color: antiquewhite;">
+        </div>
+        <!-- <hr style="width: 50%;text-align:center;margin-left:12px; padding-bottom: 15px;"> -->
+
+        <script src="function.js"></script>
+</body>
+
+</html>
